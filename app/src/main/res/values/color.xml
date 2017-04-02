@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="RED">#ff9999</color>
+    <color name="RED_LOW">#ffcccc</color>
+    <color name="RED_HIGH">#ff6666</color>
+    <color name="GREEN">#66ff66</color>
+    <color name="GREEN_LOW">#99ff99</color>
+    <color name="GREEN_HIGH">#33ff33</color>
+    <color name="BLUE">#6666ff</color>
+    <color name="BLUE_LOW">#9999ff</color>
+    <color name="BLUE_HIGH">#3333ff</color>
+     <color name="YELLOW">#ffff66</color>
+     <color name="YELLOW_LOW">#ffff99</color>
+     <color name="YELLOW_HIGH">#ffff33</color>
+</resources>
